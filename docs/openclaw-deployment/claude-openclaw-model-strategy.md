@@ -1,5 +1,5 @@
 This is a comprehensive prompt, and I'll build a full decision framework with visuals. Let me put this together.Now let me add the architecture topology diagram:Here's the full decision framework.
-
+https://claude.ai/share/e557f595-4573-4a65-b6b8-9e36e8f10f2b
 ---
 
 ## Decision: Mac mini M2 16GB — the only sensible choice under $500
