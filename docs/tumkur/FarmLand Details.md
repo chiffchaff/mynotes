@@ -1,3 +1,5 @@
+# Farm Details
+
 | Name      | Value        |
 | --------- | ------------ |
 | district  | tumkura      |
@@ -5,8 +7,9 @@
 | hobli     | kora         |
 | village   | shingrihalli |
 | Survey No | 8            |
-Next to Lakshmi Implex, Kora
-https://maps.app.goo.gl/aE1AkGmjYGqWhK2W7
+
+Next to [Lakshmi Implex, Kora](https://maps.app.goo.gl/aE1AkGmjYGqWhK2W7)
+
 
 | #   | Survey No | Transaction Year | Transaction No | MR Number | Mutation Type (Kannada/English)       | Acquisition Type (Kannada/English) | Tahsildar Approved Date |
 | --- | --------- | ---------------- | -------------- | --------- | ------------------------------------- | ---------------------------------- | ----------------------- |
